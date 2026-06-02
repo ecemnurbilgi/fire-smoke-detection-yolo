@@ -1,0 +1,15 @@
+Lib/
+Scripts/
+Include/
+venv/
+share/
+
+data/
+data.zip
+runs/
+
+__pycache__/
+*.pt
+*.pth
+
+.ipynb_checkpoints/
